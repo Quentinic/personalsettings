@@ -1,0 +1,16 @@
+[alias]
+	pl = pull
+	ps = push
+	ss = status
+	df = diff
+	lo = log
+	ls = log --stat
+	lp = log -p
+	sh = show
+	sts = stash
+	ci = commit
+	cm = commit -m
+	co = checkout
+	br = branch
+	bm = branch -m
+	ad = add
